@@ -21,5 +21,7 @@
 <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
 
 <h2>Contact</h2>
-<p>Author: Your Name<br>
+<p>Author: Ahmet<br>
 GitHub: <a href="https://github.com/lifeIsShore">https://github.com/lifeIsShore</a></p>
+LinkedIn: <a href="https://www.linkedin.com/in/ahmet-yagmur/">https://www.linkedin.com/in/ahmet-yagmur/</a></p>
+
