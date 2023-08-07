@@ -1,20 +1,25 @@
-![Uploading 1.PNG…]()
+<h1>Password Generator App</h1>
+<p>This is a simple password generator application written in Python using the tkinter library. It generates random passwords based on the specified number of uppercase letters, lowercase letters, and digits.</p>
 
-![Uploading 2.PNG…]()
+<h2>Usage</h2>
+<ol>
+<li>Clone the repository to your local machine.</li>
+<li>Run the Python script to launch the password generator application.</li>
+<li>Input the desired number of uppercase letters, lowercase letters, and digits.</li>
+<li>Click the "Generate Password" button to create a random password.</li>
+</ol>
 
-![Uploading 3.PNG…]()
+<h2>Screenshots</h2>
+<img src="1.PNG" alt="Screenshot 1">
+<img src="2.PNG" alt="Screenshot 2">
+<img src="3.PNG" alt="Screenshot 3">
+<img src="4.PNG" alt="Screenshot 4">
+<img src="5.PNG" alt="Screenshot 5">
+<img src="6.PNG" alt="Screenshot 6">
 
-![Uploading 4.PNG…]()
+<h2>License</h2>
+<p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
 
-![5](https://github.com/lifeIsShore/password_generator/assets/124509700/7b92fb87-b5c3-48bb-87ba-4299d6d1d015)
-
-![Uploading 6.PNG…]()
-
-# password_generator
-python
-
-import tkinter as tk
-import string
-import random
-
-give amount of uppercased letter, lower case letter, and digit. program will create you a random password
+<h2>Contact</h2>
+<p>Author: Your Name<br>
+GitHub: <a href="https://github.com/lifeIsShore">https://github.com/lifeIsShore</a></p>
